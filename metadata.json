@@ -1,0 +1,7 @@
+{
+  "name": "LifeFlow - Blood Donation Service",
+  "description": "A responsive blood donation platform connecting donors with patients. Features include profile management, eligibility tracking, and donor search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
